@@ -1,21 +1,22 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Santiago Lacera</h1>
+
+<img align="center" alt="img not found" width="1000" height="300" src="https://grapee.jp/en/wp-content/uploads/15748_21.gif">
+<h1 align="center"><code>Hello There, I'm Santiago Lacera</code></h1>
 <h3 align="center">I love making Web Pages and working on Projects</h3>
 <img align="right" alt="img not found" width="350" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santiagolacera&label=Profile%20views&color=0e75b6&style=flat" alt="santiagolacera" /> </p>
 
-- 🔭 I’m currently working on [getting my bachelor's degree @](https://www.ucf.edu/)
+- 🔭 I’m currently working on getting my bachelor's degree @ https://www.ucf.edu/
 
 - 🌱 I’m currently learning **C, JavaScript and Python**
 
-- 👯 I’m looking to collaborate on [any project for a website](santiagolacera251@gmail.com)
+- 👯 I’m looking to collaborate on any project for a website: santiagolacera251@gmail.com
 
-- 🤝 I’m looking for help with [Any jobs/interships](SantiagoALacera@knights.ucf.edu)
+- 🤝 I’m looking for help with Any jobs/interships: SantiagoALacera@knights.ucf.edu
 
-- 📫 How to reach me **santiagolacera251@gmail.com/407-460-5686**
+- 📫 How to reach me: **407-460-5686**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/santiago-lacera-03091999/](https://www.linkedin.com/in/santiago-lacera-03091999/)
+- 📄 Know about my experiences: [https://www.linkedin.com/in/santiago-lacera-03091999/](https://www.linkedin.com/in/santiago-lacera-03091999/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
