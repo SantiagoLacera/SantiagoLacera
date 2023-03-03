@@ -4,8 +4,6 @@
 <h3 align="center">I love making Web Pages and working on Projects</h3>
 <img align="right" alt="img not found" width="350" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santiagolacera&label=Profile%20views&color=0e75b6&style=flat" alt="santiagolacera" /> </p>
-
 - 🔭 I’m currently working on getting my bachelor's degree @ https://www.ucf.edu/
 
 - 🌱 I’m currently learning **C, JavaScript and Python**
