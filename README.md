@@ -1,7 +1,7 @@
 
 <img align="center" alt="img not found" width="1000" height="300" src="https://grapee.jp/en/wp-content/uploads/15748_21.gif">
 <h1 align="center"><code>Hello There, I'm Santiago Lacera</code></h1>
-<h3 align="center" font-family: "Lucida Console", Courier, monospace>I love making Web Pages and working on Projects</h3>
+<h3 align="center" font-family="Lucida Console">I love making Web Pages and working on Projects</h3>
 <img align="right" alt="img not found" width="350" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
 
 - 🔭 I’m currently working on getting my bachelor's degree @ https://www.ucf.edu/
